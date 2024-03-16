@@ -6,35 +6,41 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surfReport',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'WeatherDashboard',
+      description: 'API USAGE, CSS, HTML, JAVASCRIPT',
+      link: "https://lsaox.github.io/WeatherApiHW/",
+      repo: "https://github.com/lsaox/WeatherApiHW"
     },
     {
-      name: 'pastelPuzzels',
-      description: 'MERN Stack',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'RZRKT',
+      description: 'WEB DESIGN, CSS, SHOPIFY',
+      link: "https://rzrkt.com",
+      
     },
     {
-      name: 'runBuddy',
-      description: 'HTML/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'DudeWheresMyBrew',
+      description: 'API USAGE, HTML, CSS, JAVASCRIPT',
+      link: "https://fractalicecream.github.io/DudeWheresMyBrew/",
+      repo: "https://github.com/FractalIceCream/DudeWheresMyBrew"
     },
     {
-      name: 'ledWall',
-      description: 'Node/IoT',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'WorkDayScheduler',
+      description: 'JQUERY, JAVASCRIPT, CSS,  HTML',
+      link: "https://lsaox.github.io/Day-Planner-Homework/",
+      repo: "https://github.com/lsaox/Day-Planner-Homework"
     },
     {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
+      name: 'PasswordGenerator',
+      description: 'JAVASCRIPT, HTML, CSS',
+      link: "https://github.com/lsaox/password-generator-homework/",
+      repo: "https://github.com/lsaox/password-generator-homework"
     },
+    {
+      name: 'LilahAndGraysonsArt',
+      description: 'HTML, CSS',
+      link: "https://lsaox.github.io/LilahandGraysonGallery/",
+      repo: "https://github.com/lsaox/LilahandGraysonGallery"
+    }
   ]);
 
   return (

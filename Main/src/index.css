@@ -5,12 +5,12 @@ main {
 }
 :root {
   --primary: #8c54ff;
-  --secondary: #31343D;
+  --secondary: #000208;
   --tertiary: #b12704;
-  --light: #fafafa;
+  --light: #ffffff;
   --dark: #799FBA;
-  --darker: #1F3B60;
-  --alpha: rgba(255,255,255,.7);
+  --darker: #080c18;
+  --alpha: rgba(218, 211, 211, 0.7);
   --error: rgb(228, 46, 1);
   --spacing-one: calc(1rem * 0.5);
   --spacing-two: calc(1rem);
@@ -243,6 +243,7 @@ textarea {
 .flex-row {
   display: flex;
   flex-wrap: wrap;
+  justify-content: space-around;
 }
 
 .space-between {
