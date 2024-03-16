@@ -2,7 +2,8 @@
 
 In this project I use Vite, React, and Netlify to create, customize, and deploy my portfolio.
 
-Application screenshot: 
+Application screenshot: ![Screenshot (20)](https://github.com/lsaox/REACTPORTFOLIO/assets/138525227/d204a4b3-f758-4ddd-9fe7-88cb44a8d10d)
+
 
 ## Table of Contents
   - [Installation](#installation)
